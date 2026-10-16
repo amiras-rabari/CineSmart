@@ -1,0 +1,13 @@
+# Tell GitHub Linguist what to leave out of the repository language statistics.
+
+# shadcn/Radix generated UI primitives
+Cinesmart-Frontend/src/components/ui/** linguist-generated
+
+# Lockfile
+Cinesmart-Frontend/pnpm-lock.yaml linguist-generated
+
+# Frontend tests are test code, not product code
+Cinesmart-Frontend/e2e/** linguist-documentation
+Cinesmart-Frontend/src/test/** linguist-documentation
+*.test.ts linguist-documentation
+*.test.tsx linguist-documentation
