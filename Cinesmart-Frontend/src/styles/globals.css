@@ -1,0 +1,212 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import '@fontsource-variable/inter';
+
+/* `dark:` follows `<html class="dark">`, not the OS setting (the app is dark only). */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Design tokens ([DS-2]). Dark only; the only place raw colours live. */
+:root {
+  color-scheme: dark;
+
+  --background: #0b0b0f;
+  --surface: #14141a;
+  --surface-2: #1c1c24;
+  --surface-3: #262630;
+  --border: #2e2e3a;
+  /* Form field outline: ≥ 3:1 on every surface (WCAG 1.4.11). */
+  --field-border: #71717a;
+  --foreground: #f4f4f5;
+  --muted-foreground: #a1a1aa;
+  --subtle-foreground: #8e8e99;
+  --primary: #f5b301;
+  --primary-hover: #ffc933;
+  --primary-foreground: #14110a;
+  --ring: #fbbf24;
+  --like: #4ade80;
+  --dislike: #f87171;
+  --destructive: #ef4444;
+  --destructive-foreground: #fca5a5;
+  --success: #4ade80;
+  --info: #60a5fa;
+  --overlay: rgb(0 0 0 / 0.65);
+
+  /* shadcn token names mapped onto the palette above. */
+  --card: var(--surface);
+  --card-foreground: var(--foreground);
+  --popover: var(--surface-2);
+  --popover-foreground: var(--foreground);
+  --secondary: var(--surface-2);
+  --secondary-foreground: var(--foreground);
+  --muted: var(--surface-2);
+  --accent: var(--surface-3);
+  --accent-foreground: var(--foreground);
+  --input: var(--border);
+
+  --radius: 8px;
+  --shadow-pop: 0 8px 24px rgb(0 0 0 / 0.5);
+  --ease-cine: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@theme inline {
+  --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-field-border: var(--field-border);
+  --color-ring: var(--ring);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-subtle-foreground: var(--subtle-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-like: var(--like);
+  --color-dislike: var(--dislike);
+  --color-success: var(--success);
+  --color-info: var(--info);
+  --color-overlay: var(--overlay);
+
+  --radius-xs: 4px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 12px;
+
+  --shadow-pop: var(--shadow-pop);
+  --ease-cine: var(--ease-cine);
+
+  /* Tailwind's defaults match [DS-2] except the hero size. */
+  --text-5xl: 3rem;
+  --text-5xl--line-height: 3.25rem;
+}
+
+@layer base {
+  *,
+  ::after,
+  ::before {
+    border-color: var(--border);
+  }
+
+  html {
+    background-color: var(--background);
+  }
+
+  body {
+    min-height: 100dvh;
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: 'cv11', 'ss01';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Visible amber focus ring everywhere (2px + 2px offset). Components with their own ring
+     (ring-* utilities) set outline-none. */
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+  }
+}
+
+@utility tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+@utility page-gutter {
+  padding-inline: 1rem;
+  @media (width >= 40rem) {
+    padding-inline: 1.5rem;
+  }
+  @media (width >= 64rem) {
+    padding-inline: 3rem;
+  }
+}
+
+@utility content-width {
+  width: 100%;
+  max-width: 1440px;
+  margin-inline: auto;
+}
+
+/* Skeleton shimmer ([DS-3]); static under reduced motion. */
+@utility skeleton-shimmer {
+  background-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgb(255 255 255 / 0.05) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  background-repeat: no-repeat;
+  animation: shimmer 1.4s linear infinite;
+}
+
+@keyframes shimmer {
+  from {
+    background-position: 150% 0;
+  }
+  to {
+    background-position: -50% 0;
+  }
+}
+
+@keyframes splash-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.55;
+  }
+}
+
+@utility animate-splash-pulse {
+  animation: splash-pulse 1.6s ease-in-out infinite;
+}
+
+/* Everything except opacity changes is disabled under reduced motion ([DS-3]). */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::after,
+  ::before {
+    scroll-behavior: auto !important;
+    transition-property: opacity !important;
+  }
+
+  .skeleton-shimmer {
+    animation: none;
+    background-image: none;
+  }
+
+  [data-state='open'],
+  [data-state='closed'] {
+    --tw-enter-translate-x: 0;
+    --tw-enter-translate-y: 0;
+    --tw-exit-translate-x: 0;
+    --tw-exit-translate-y: 0;
+    --tw-enter-scale: 1;
+    --tw-exit-scale: 1;
+  }
+}

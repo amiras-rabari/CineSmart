@@ -1,0 +1,20 @@
+﻿# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/
+
+# Secrets
+.env
+.env.local
+*.local
+
+# Logs / misc
+*.log
+
+# Database folder is not published (schema is provided as Cinesmart_database_schema.sql)
+Database/

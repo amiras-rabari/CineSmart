@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Allow the 4 specific folders and all their contents
+!Scripts/
+!Scripts/**
+
+!Logs/
+!Logs/**
+
+# Never commit bytecode
+__pycache__/
+*.pyc

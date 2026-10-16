@@ -1,0 +1,25 @@
+# --- SECRETS & CONFIGURATION ---
+# application.properties is committed: all secrets come from env vars (see .env.example).
+# Local override files may hold real values, so keep those out.
+src/main/resources/application-local.properties
+.env
+
+# --- MAVEN BUILD OUTPUTS ---
+# Ignores the compiled code, binaries, and build artifacts
+target/
+*.egg
+
+# --- IDE & SYSTEM FILES ---
+# IntelliJ IDEA settings folder
+.idea/
+*.iml
+
+# Maven wrapper folder
+.mvn/
+
+# Postman collections or environment settings (if they contain private keys/tokens)
+.postman/
+
+# OS generated files
+.DS_Store
+Thumbs.db

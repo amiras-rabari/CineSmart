@@ -1,0 +1,944 @@
+2026-08-29 20:35:53 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:35:53 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-08-29 20:35:53 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:35:53 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-08-29 20:35:53 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-08-29 20:35:53 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-08-29 20:35:53 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:35:53 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-08-29 20:35:53 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:35:53 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-08-29 20:35:53 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-08-29 20:35:53 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-08-29 20:35:53 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 810 movies to: Database
+2026-08-29 20:35:53 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-08-29 20:36:50 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:36:50 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-08-29 20:36:50 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:36:50 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-08-29 20:36:50 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-08-29 20:36:50 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-08-29 20:36:50 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:36:50 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-08-29 20:36:50 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:36:50 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-08-29 20:36:50 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-08-29 20:36:50 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-08-29 20:36:50 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 82 movies to: Database
+2026-08-29 20:36:50 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-08-29 20:37:40 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:37:40 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-08-29 20:37:40 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:37:40 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-08-29 20:37:40 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-08-29 20:37:40 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-08-29 20:37:40 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:37:40 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-08-29 20:37:40 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:37:40 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-08-29 20:37:40 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-08-29 20:37:41 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-08-29 20:37:41 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 10 movies to: Database
+2026-08-29 20:37:41 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-08-29 20:38:10 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:38:10 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-08-29 20:38:10 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:38:10 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-08-29 20:38:10 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-08-29 20:38:10 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-08-29 20:38:10 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-08-29 20:38:10 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-08-29 20:38:10 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-08-29 20:38:10 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-08-29 20:38:10 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-08-29 20:38:10 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-08-29 20:38:10 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 1 movies to: Database
+2026-08-29 20:38:10 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-09-11 21:16:02 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:16:02 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:16:02 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:16:02 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:16:02 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:16:02 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:16:02 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:16:02 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:16:02 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:16:02 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:16:02 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:16:02 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:16:02 - [INFO] - Ingestion_Script.<module>(line:49) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:16:02 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-09-11 21:21:12 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:21:12 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:21:12 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:21:12 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:21:12 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:21:12 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:21:12 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:21:12 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:21:12 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:21:12 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:21:12 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:21:12 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:21:12 - [INFO] - Ingestion_Script.<module>(line:49) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:21:12 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-09-11 21:24:13 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:24:13 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:24:13 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:24:13 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:24:13 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:24:13 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:24:13 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:24:13 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:24:13 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:24:13 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:24:13 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:24:14 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:24:14 - [INFO] - Ingestion_Script.<module>(line:49) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:24:14 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-09-11 21:26:05 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:26:05 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:26:05 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:26:05 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:26:05 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:26:05 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:26:05 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:26:05 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:26:05 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:26:05 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:26:05 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:26:05 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:26:05 - [INFO] - Ingestion_Script.<module>(line:49) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:26:05 - [INFO] - Ingestion_Script.<module>(line:61) - DB Connection closed successfully.
+2026-09-11 21:26:45 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:26:45 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:26:45 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:26:45 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:26:45 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:26:45 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:26:45 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:26:45 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:26:45 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:26:45 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:26:45 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:26:45 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:26:45 - [INFO] - Ingestion_Script.<module>(line:51) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:26:45 - [INFO] - Ingestion_Script.<module>(line:63) - DB Connection closed successfully.
+2026-09-11 21:28:15 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:28:15 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:28:15 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:28:15 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:28:15 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:28:15 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:28:15 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:28:15 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:28:15 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:28:15 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:28:15 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:28:15 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:28:15 - [INFO] - Ingestion_Script.<module>(line:51) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:28:15 - [INFO] - Ingestion_Script.<module>(line:63) - DB Connection closed successfully.
+2026-09-11 21:29:39 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:29:39 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:29:39 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:29:39 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:29:39 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:29:39 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:29:39 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:29:39 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:29:39 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:29:39 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:29:39 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:29:39 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:29:39 - [INFO] - Ingestion_Script.<module>(line:51) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:29:39 - [INFO] - Ingestion_Script.<module>(line:63) - DB Connection closed successfully.
+2026-09-11 21:30:19 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:30:19 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:30:19 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:30:19 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:30:19 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:30:19 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:30:19 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:30:19 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:30:19 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:30:19 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:30:19 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:30:19 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:30:19 - [INFO] - Ingestion_Script.<module>(line:51) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:30:19 - [INFO] - Ingestion_Script.<module>(line:63) - DB Connection closed successfully.
+2026-09-11 21:30:35 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:30:35 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:30:35 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:30:35 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:30:35 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:30:35 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:30:35 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:30:35 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:30:35 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:30:35 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:30:35 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:30:35 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:30:35 - [INFO] - Ingestion_Script.<module>(line:51) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:30:35 - [INFO] - Ingestion_Script.<module>(line:63) - DB Connection closed successfully.
+2026-09-11 21:33:56 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:33:56 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:33:56 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:33:56 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:33:56 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:33:56 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:33:56 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:33:56 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:33:56 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:33:56 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:33:56 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:33:56 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:33:56 - [INFO] - Ingestion_Script.<module>(line:51) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:33:56 - [INFO] - Ingestion_Script.<module>(line:63) - DB Connection closed successfully.
+2026-09-11 21:34:42 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:34:42 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:34:42 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:34:42 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:34:42 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:34:42 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:34:42 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:34:42 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:34:42 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:34:42 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:34:42 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:34:42 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:34:42 - [INFO] - Ingestion_Script.<module>(line:51) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:34:42 - [INFO] - Ingestion_Script.<module>(line:63) - DB Connection closed successfully.
+2026-09-11 21:35:11 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:35:11 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:35:11 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:35:11 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:35:11 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:35:11 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:35:11 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:35:11 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:35:11 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:35:11 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:35:11 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:35:11 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:35:11 - [INFO] - Ingestion_Script.<module>(line:50) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:35:11 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-09-11 21:37:24 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:37:24 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:37:24 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:37:24 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:37:24 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:37:24 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:37:24 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:37:24 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:37:24 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:37:24 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:37:24 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:37:24 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:37:24 - [INFO] - Ingestion_Script.<module>(line:50) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:37:24 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-09-11 21:37:42 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:37:42 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:37:42 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:37:42 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:37:42 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:37:42 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:37:42 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:37:42 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:37:42 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:37:42 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:37:42 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:37:42 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:37:42 - [INFO] - Ingestion_Script.<module>(line:50) - \u274c General PostgreSQL Error: no result available
+2026-09-11 21:37:42 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-09-11 21:38:16 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:38:16 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 21:38:16 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:38:16 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 21:38:16 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 21:38:16 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 21:38:16 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 21:38:16 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 21:38:16 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 21:38:16 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 21:38:16 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 21:38:16 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 21:38:16 - [INFO] - Ingestion_Script.<module>(line:50) - \u274c General PostgreSQL Error: there is no unique or exclusion constraint matching the ON CONFLICT specification
+2026-09-11 21:38:16 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-09-11 22:46:08 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 22:46:08 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 22:46:08 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 22:46:08 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 22:46:08 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 22:46:08 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 22:46:08 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 22:46:08 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 22:46:08 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 22:46:08 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 22:46:08 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 22:46:08 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 22:46:08 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 17 movies to: Database
+2026-09-11 22:46:08 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-09-11 23:13:25 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 23:13:25 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-09-11 23:13:25 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 23:13:25 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-09-11 23:13:25 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-09-11 23:13:25 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-09-11 23:13:25 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-09-11 23:13:25 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-09-11 23:13:25 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-09-11 23:13:25 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-09-11 23:13:25 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-09-11 23:13:25 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-09-11 23:13:25 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 15 movies to: Database
+2026-09-11 23:13:25 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:30:29 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:30:29 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:30:29 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:30:29 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:30:29 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:30:29 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:30:29 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:30:29 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:30:29 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:30:29 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:30:29 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:30:29 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:30:30 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 16 movies to: Database
+2026-10-11 15:30:30 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:31:21 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:31:21 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:31:21 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:31:21 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:31:21 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:31:21 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:31:21 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:31:21 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:31:21 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:31:21 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:31:21 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:31:22 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:31:22 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 16 movies to: Database
+2026-10-11 15:31:22 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:33:43 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:33:43 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:33:43 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:33:43 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:33:43 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:33:43 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:33:43 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:33:43 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:33:43 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:33:43 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:33:43 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:33:43 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:33:43 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 19 movies to: Database
+2026-10-11 15:33:43 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:42:07 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:42:07 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:42:07 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:42:07 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:42:07 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:42:07 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:42:07 - [INFO] - Logger_Config.setup_logger(line:18) - ============================================================
+2026-10-11 15:42:07 - [INFO] - Logger_Config.setup_logger(line:19) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:42:07 - [INFO] - Logger_Config.setup_logger(line:20) - ============================================================
+2026-10-11 15:42:07 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:42:07 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:42:07 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:42:07 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 18 movies to: Database
+2026-10-11 15:42:07 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:43:40 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:43:40 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:43:40 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:43:40 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:43:40 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:43:40 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:43:40 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:43:40 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:43:40 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:43:40 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:43:40 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:43:40 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:43:40 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 20 movies to: Database
+2026-10-11 15:43:40 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:46:59 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 15:46:59 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 15:46:59 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:46:59 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 15:46:59 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 15:46:59 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 15:46:59 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:47:00 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt3570966
+2026-10-11 15:47:01 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt14799576
+2026-10-11 15:47:02 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt17291716
+2026-10-11 15:47:02 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt30012687
+2026-10-11 15:47:03 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt0108255
+2026-10-11 15:47:04 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 15:47:04 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_154659.jsonl
+2026-10-11 15:47:04 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_154659.jsonl
+2026-10-11 15:47:38 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:47:38 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:47:38 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:47:38 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:47:38 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:47:38 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:47:38 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:47:38 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:47:38 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:47:38 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:47:38 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:47:38 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:47:38 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 15 movies to: Database
+2026-10-11 15:47:38 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:48:25 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:48:25 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 15:48:25 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:48:25 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 15:48:25 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 15:48:25 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 15:48:32 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:48:32 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 15:48:32 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:48:32 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 15:48:32 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 15:48:32 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 15:48:32 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:48:32 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 15:48:32 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:48:33 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:49:07 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 15:49:07 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 15:49:07 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:49:07 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 15:49:07 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 15:49:07 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 15:49:07 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:49:09 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt0834581
+2026-10-11 15:49:10 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt0080642
+2026-10-11 15:49:11 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt1124039
+2026-10-11 15:49:12 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 15:49:12 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_154907.jsonl
+2026-10-11 15:49:12 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_154907.jsonl
+2026-10-11 15:49:28 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:49:28 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:49:28 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:49:28 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:49:28 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:49:28 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:49:28 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:49:28 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:49:28 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:49:28 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:49:28 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:49:28 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:49:28 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 17 movies to: Database
+2026-10-11 15:49:28 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:50:39 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:39 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 15:50:39 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:39 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 15:50:39 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 15:50:39 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 15:50:39 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:39 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 15:50:39 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:41 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 15:50:44 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:44 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:50:44 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:44 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:50:44 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:50:44 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:50:44 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:44 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:50:44 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:44 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:50:44 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:50:44 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:50:44 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 17 movies to: Database
+2026-10-11 15:50:44 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:48 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 15:50:48 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 15:50:48 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:48 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 15:50:48 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 15:50:48 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 15:50:48 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:54 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 15:50:54 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_155048.jsonl
+2026-10-11 15:50:54 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_155048.jsonl
+2026-10-11 15:50:56 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:56 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:50:56 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:56 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:50:56 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:50:56 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:50:56 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:50:56 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:50:56 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:50:56 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:50:56 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:50:56 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:50:56 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 19 movies to: Database
+2026-10-11 15:50:56 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 15:51:00 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:51:00 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 15:51:00 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:51:00 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 15:51:00 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 15:51:00 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 15:51:00 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:51:00 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 15:51:00 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:51:02 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:51:06 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 15:51:06 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 15:51:06 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:51:06 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 15:51:06 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 15:51:06 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 15:51:06 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:51:07 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt0133643
+2026-10-11 15:51:08 - [INFO] - OMDB_Client._omdb_get(line:43) - request failed for tt43640061 Error: Movie not found!
+2026-10-11 15:51:08 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt35512499
+2026-10-11 15:51:10 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt32568049
+2026-10-11 15:51:11 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt29283995
+2026-10-11 15:51:11 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 15:51:11 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_155106.jsonl
+2026-10-11 15:51:11 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_155106.jsonl
+2026-10-11 15:51:15 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:51:15 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 15:51:15 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:51:15 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 15:51:15 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 15:51:15 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 15:51:15 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 15:51:15 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 15:51:15 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 15:51:15 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 15:51:15 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 15:51:15 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 15:51:15 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 15 movies to: Database
+2026-10-11 15:51:15 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 16:09:11 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:09:11 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 16:09:11 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:09:11 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 16:09:11 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 16:09:11 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 16:09:11 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:09:11 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 16:09:11 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:09:12 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:09:17 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 16:09:17 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 16:09:17 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:09:17 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 16:09:17 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 16:09:17 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 16:09:17 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:09:18 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt1927068
+2026-10-11 16:09:21 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 16:09:21 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_160917.jsonl
+2026-10-11 16:09:21 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_160917.jsonl
+2026-10-11 16:09:25 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:09:25 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 16:09:25 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:09:25 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 16:09:25 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 16:09:25 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 16:09:25 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:09:25 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 16:09:25 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:09:25 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 16:09:25 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 16:09:25 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 16:09:25 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 18 movies to: Database
+2026-10-11 16:09:25 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 16:10:25 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:10:25 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 16:10:25 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:10:25 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 16:10:25 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 16:10:25 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 16:10:25 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:10:25 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 16:10:25 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:10:27 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:10:32 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 16:10:32 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 16:10:32 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:10:32 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 16:10:32 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 16:10:32 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 16:10:32 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:10:35 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt5493944
+2026-10-11 16:10:36 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt0293715
+2026-10-11 16:10:37 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 16:10:37 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_161032.jsonl
+2026-10-11 16:10:37 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_161032.jsonl
+2026-10-11 16:10:40 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:10:40 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 16:10:40 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:10:40 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 16:10:40 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 16:10:40 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 16:10:40 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:10:40 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 16:10:40 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:10:40 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 16:10:40 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 16:10:40 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 16:10:40 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 18 movies to: Database
+2026-10-11 16:10:40 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 16:11:00 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:00 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 16:11:00 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:00 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 16:11:00 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 16:11:00 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 16:11:00 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:00 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 16:11:00 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:01 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:03 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 16:11:03 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 16:11:03 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:03 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 16:11:03 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 16:11:03 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 16:11:03 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:07 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt40187050
+2026-10-11 16:11:09 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt38121182
+2026-10-11 16:11:09 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 16:11:09 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_161103.jsonl
+2026-10-11 16:11:09 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_161103.jsonl
+2026-10-11 16:11:12 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:12 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 16:11:12 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:12 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 16:11:12 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 16:11:12 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 16:11:12 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:12 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 16:11:12 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:12 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 16:11:12 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 16:11:12 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 16:11:13 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 18 movies to: Database
+2026-10-11 16:11:13 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 16:11:21 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:21 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 16:11:21 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:21 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 16:11:21 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 16:11:21 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 16:11:21 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:21 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 16:11:21 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:23 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:26 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 16:11:26 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 16:11:26 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:26 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 16:11:26 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 16:11:26 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 16:11:26 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:30 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt41317902
+2026-10-11 16:11:31 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 16:11:31 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_161126.jsonl
+2026-10-11 16:11:31 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_161126.jsonl
+2026-10-11 16:11:46 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:46 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 16:11:46 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:46 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 16:11:46 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 16:11:46 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 16:11:46 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:46 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 16:11:46 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:46 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 16:11:46 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 16:11:46 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 16:11:46 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 18 movies to: Database
+2026-10-11 16:11:46 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 16:11:51 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:51 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 16:11:51 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:51 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 16:11:51 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 16:11:51 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 16:11:51 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:51 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 16:11:51 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:52 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:56 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 16:11:56 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 16:11:56 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 16:11:56 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 16:11:56 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:11:56 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt13570066
+2026-10-11 16:12:01 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 16:12:01 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_161156.jsonl
+2026-10-11 16:12:01 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_161156.jsonl
+2026-10-11 16:12:08 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:12:08 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 16:12:08 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:12:08 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 16:12:08 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 16:12:08 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 16:12:08 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 16:12:08 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 16:12:08 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 16:12:08 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 16:12:08 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 16:12:08 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 16:12:08 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 19 movies to: Database
+2026-10-11 16:12:08 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 18:59:52 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 18:59:52 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 18:59:52 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 18:59:52 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 18:59:52 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 18:59:52 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 18:59:52 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:00:10 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:00:10 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 19:00:10 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:00:10 - [INFO] - TMDB_Client.<module>(line:16) - ============================================================
+2026-10-11 19:00:10 - [INFO] - TMDB_Client.<module>(line:17) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 19:00:10 - [INFO] - TMDB_Client.<module>(line:18) - ============================================================
+2026-10-11 19:00:10 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:00:10 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 19:00:10 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:00:12 - [INFO] - Movie_Detail_Generator.<module>(line:61) - Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:00:49 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 19:00:49 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 19:00:49 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:00:49 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 19:00:49 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 19:00:49 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 19:00:49 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:01:24 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 19:01:24 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 19:01:24 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 19:01:24 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 19:01:24 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:03:14 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 19:03:14 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 19:03:14 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 19:03:14 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 19:03:14 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:03:44 - [ERROR] - OMDB_Client._omdb_get(line:47) - request failed for tt30327451
+2026-10-11 19:03:44 - [ERROR] - OMDB_Client._omdb_get(line:48) - reason HTTPSConnectionPool(host='www.omdbapi.com', port=443): Read timed out. (read timeout=30)
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:04:21 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 19:04:21 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 19:04:21 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:04:21 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 19:04:21 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 19:04:21 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 19:04:21 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:08:19 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:08:19 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py RUN STARTED
+2026-10-11 19:08:19 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:08:19 - [INFO] - TMDB_Client.<module>(line:27) - ============================================================
+2026-10-11 19:08:19 - [INFO] - TMDB_Client.<module>(line:28) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\TMDB_Client.py
+2026-10-11 19:08:19 - [INFO] - TMDB_Client.<module>(line:29) - ============================================================
+2026-10-11 19:08:19 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:08:19 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Movie_Detail_Generator.py RUN STARTED
+2026-10-11 19:08:19 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:08:19 - [INFO] - Movie_Detail_Generator.run(line:78) - Running mode: trending
+2026-10-11 19:08:20 - [INFO] - TMDB_Client.get_trending_movies(line:199) - Fetched 20 trending movies (day)
+2026-10-11 19:08:21 - [INFO] - Movie_Detail_Generator.fetch_trending(line:62) - Trending: kept 20/20 with an IMDb ID
+2026-10-11 19:08:21 - [INFO] - Movie_Detail_Generator.run(line:90) - [trending] Saved 20 movies to: E:\Movie Project\CineSmart\Data_Ingestion\Resource Files\daily_discover_movies.jsonl
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:08:45 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 19:08:45 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 19:08:45 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:08:45 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 19:08:45 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 19:08:45 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 19:08:45 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:08:51 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt35538033
+2026-10-11 19:08:59 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt31450459
+2026-10-11 19:09:07 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt33214716
+2026-10-11 19:09:27 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt33764258
+2026-10-11 19:09:28 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt47657999
+2026-10-11 19:09:28 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt32261958
+2026-10-11 19:09:29 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt21357150
+2026-10-11 19:09:34 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt27419420
+2026-10-11 19:09:34 - [INFO] - Watchmode_Client.get_movie_availability_by_imdb_id(line:66) - Search success but no availability data for tt31349844
+2026-10-11 19:09:37 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:94) - Finished writing latest run
+2026-10-11 19:09:37 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:95) - OMDb staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\omdb_responses_20261011_190845.jsonl
+2026-10-11 19:09:37 - [INFO] - OMDB_Watchmod_Data_Collector.main(line:96) - Watchmode staging file: E:\Movie Project\CineSmart\Data_Ingestion\Staging Files\watchmode_responses_20261011_190845.jsonl
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py RUN STARTED
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:09:58 - [INFO] - OMDB_Client.<module>(line:9) - ============================================================
+2026-10-11 19:09:58 - [INFO] - OMDB_Client.<module>(line:10) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Client.py
+2026-10-11 19:09:58 - [INFO] - OMDB_Client.<module>(line:11) - ============================================================
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py RUN STARTED
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:09:58 - [INFO] - Watchmode_Client.<module>(line:11) - ============================================================
+2026-10-11 19:09:58 - [INFO] - Watchmode_Client.<module>(line:12) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Watchmode_Client.py
+2026-10-11 19:09:58 - [INFO] - Watchmode_Client.<module>(line:13) - ============================================================
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\OMDB_Watchmod_Data_Collector.py RUN STARTED
+2026-10-11 19:09:58 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:11:10 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:11:10 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 19:11:10 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:11:10 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 19:11:10 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 19:11:10 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 19:11:10 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:11:10 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 19:11:10 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:11:10 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 19:11:10 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 19:11:10 - [INFO] - Ingestion_Script.<module>(line:24) - DB Connection is working perfectly!
+2026-10-11 19:11:10 - [INFO] - Ingestion_Script.<module>(line:37) - Saved 11 movies to: Database
+2026-10-11 19:11:10 - [INFO] - Ingestion_Script.<module>(line:62) - DB Connection closed successfully.
+2026-10-11 19:21:59 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:21:59 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Data_Validator.py RUN STARTED
+2026-10-11 19:21:59 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:21:59 - [INFO] - Database_Insertion_Client.<module>(line:5) - ============================================================
+2026-10-11 19:21:59 - [INFO] - Database_Insertion_Client.<module>(line:6) - Script E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Database_Insertion_Client.py
+2026-10-11 19:21:59 - [INFO] - Database_Insertion_Client.<module>(line:7) - ============================================================
+2026-10-11 19:21:59 - [INFO] - Logger_Config.setup_logger(line:19) - ============================================================
+2026-10-11 19:21:59 - [INFO] - Logger_Config.setup_logger(line:20) - SCRIPT E:\Movie Project\CineSmart\Data_Ingestion\Scripts\Ingestion_Script.py RUN STARTED
+2026-10-11 19:21:59 - [INFO] - Logger_Config.setup_logger(line:21) - ============================================================
+2026-10-11 19:21:59 - [INFO] - Ingestion_Script.main(line:19) - Ingestion mode: trending
+2026-10-11 19:21:59 - [INFO] - Data_Validator.get_validated_data(line:200) - OMDB Data Validation successful
+2026-10-11 19:21:59 - [INFO] - Data_Validator.get_availability_data(line:230) - Watchmode Data Validation successful
+2026-10-11 19:21:59 - [INFO] - Ingestion_Script.main(line:36) - DB Connection is working perfectly!
+2026-10-11 19:21:59 - [INFO] - Ingestion_Script.main(line:55) - Updated top10 table with 11 movie IDs
+2026-10-11 19:21:59 - [INFO] - Ingestion_Script.main(line:57) - Saved 11 movies to: Database
+2026-10-11 19:21:59 - [INFO] - Ingestion_Script.main(line:84) - DB Connection closed successfully.
